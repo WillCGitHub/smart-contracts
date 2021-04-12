@@ -12,9 +12,6 @@ Quick links
 
 `STO - security token tool chain <https://docs.tokenmarket.net>`_ - a lot of new development work happens in this security token specific project that users smart contracts from this repository
 
-`TokenMarket website <https://tokenmarket.net>`_
-
-`Github issue tracker and source code <https://github.com/tokenmarketnet/ico>`_
 
 `Documentation <https://ico.readthedocs.io/en/latest/>`_
 
@@ -70,10 +67,6 @@ Audit reports
 Some public audit reports available for some revisions of this codebase:
 
 * `For Atonomi by LevelK, May 2018 <https://drive.google.com/file/d/0B6r9uCgN_xpJeUdRaGxaQ3VrTVBiekg5V25aUEUycDVZWlhn/view?usp=sharing>`_
-
-* `For Dala by Iosiro, October 2017 <https://www.iosiro.com/dala-token-sale-audit>`_
-
-* `For Civic by Zeppelin, June 2017 <https://medium.com/@ZeppelinOrg/a91754ab6e4b>`_
 
 More audit reports available on a request.
 
